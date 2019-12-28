@@ -2,8 +2,8 @@ import React from "react";
 import Combobox from "./Combobox";
 const App = () => {
   return (
-    <div>
-      <h1>Combobox demo</h1>
+    <div className="container">
+      <h1>Combobox component</h1>
       <Combobox />
     </div>
   );
